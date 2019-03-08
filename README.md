@@ -3,4 +3,4 @@
 A song about rainbows in the key of C major.
 
 The song is a happy song.
-This README has been hijacked!!!
+A very happy song!
